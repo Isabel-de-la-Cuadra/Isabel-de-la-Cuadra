@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Isabel de la Cuadra, soy una novel Desarrolladora Full Stack. 
 En el año 2022 hice mi primer Bootcamp y fue en Java. Como quería transitar desde el lado oscuro de la fuerza, Back End, hacia la interfaz de usuario, el año 2023 tomé uno en JavaScript.
 
-Mi curiosidad e interés me guian hacia el escenario, así es que en cuanto pueda, tomaré algunos cursos de Frameworks de JavaScript y, por qué no, de Diseño UX-UI.
+Mi curiosidad e interés me guian hacia el escenario, así es que en cuanto pueda, tomaré algunos cursos de Frameworks para el Front End de JavaScript y, por qué no, de Diseño UX-UI 🤷🏼‍♀️.
 
 Terminando este texto, les dejo destacados algunos repositorios de los proyectos desarrollados en mi último Bootcamp.
 
@@ -9,7 +9,7 @@ En Repositories están los Desafíos que más me han gustado y que quiero compar
 
 ### 🤔 Creo que sería interesante dejar una gráfica sobre en qué he desarrollado mis proyectos. Acá se las comparto:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabel-de-la-Cuadra&layout=compact&bg_color=DEG,ffb600,ffff00,ffb600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabel-de-la-Cuadra&layout=compact&bg_color=DEG,ff2700,ffff00,ff2700)
 
 ### 😉 ... Y porque no hacer lo mismo sobre lo que he estado aprendiendo, dejando solo los íconos:
 
