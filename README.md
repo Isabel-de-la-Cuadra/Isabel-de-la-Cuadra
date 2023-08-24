@@ -42,7 +42,7 @@ En Repositories están los proyectos de los Bootcamps que más me han gustado y 
 <p>
 <a href="https://github.com/Isabel-de-la-Cuadra"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/isabeldelacuadralunas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="isabel.de.la.cuadra@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:isabel.de.la.cuadra@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
