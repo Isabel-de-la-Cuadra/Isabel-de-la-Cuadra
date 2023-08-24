@@ -38,8 +38,10 @@ En Repositories están los proyectos de los Bootcamps que más me han gustado y 
 </p>
 
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ff2700&center=verdadero&vCenter=verdadero&width=800&lines=Si+quieres+contactarme+puedes+hacerlo+a+través+de)](https://git.io/typing-svg)
-<p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ff2700&center=true&vCenter=true&width=800&lines=Si+quieres+contactarme%2C+puedes+hacerlo+a+trav%C3%A9s+de)](https://git.io/typing-svg)
+
+<p align="center">
 <a href="https://www.linkedin.com/in/isabeldelacuadralunas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:isabel.de.la.cuadra@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
