@@ -1,4 +1,4 @@
-### Hola, mi nombre es Isabel de la Cuadra, soy una novel Desarrolladora Full Stack. 
+### Hola, mi nombre es Isabel de la Cuadra, soy una novel aprendiz de Desarrollo Web. 
 En el año 2022 hice mi primer Bootcamp y fue en Java. Como quería transitar desde el lado oscuro de la fuerza, Back End, hacia la interfaz de usuario, el año 2023 tomé uno en JavaScript y 🥳 este año estoy estudiando Diseño UX-UI 🤷🏼‍♀️ (¡GRACIAS TALENTO DIGITAL PARA CHILE, POR LAS DOS BECAS: Bootcamp y Google + Coursera).
 
 Terminando este texto, les dejo destacados algunos repositorios de los proyectos desarrollados el Bootcamp de Desarrollo Full Stack JavaScript.
