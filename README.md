@@ -1,9 +1,7 @@
 ### Hola, mi nombre es Isabel de la Cuadra, soy una novel Desarrolladora Full Stack. 
-En el año 2022 hice mi primer Bootcamp y fue en Java. Como quería transitar desde el lado oscuro de la fuerza, Back End, hacia la interfaz de usuario, el año 2023 tomé uno en JavaScript.
+En el año 2022 hice mi primer Bootcamp y fue en Java. Como quería transitar desde el lado oscuro de la fuerza, Back End, hacia la interfaz de usuario, el año 2023 tomé uno en JavaScript y 🥳 este año estoy estudiando Diseño UX-UI 🤷🏼‍♀️ (¡GRACIAS TALENTO DIGITAL PARA CHILE, POR LAS DOS BECAS: Bootcamp y Google + Coursera).
 
-Mi curiosidad e interés me guian hacia el escenario, así es que en cuanto pueda, tomaré algunos cursos de Frameworks para el Front End de JavaScript y, por qué no, de Diseño UX-UI 🤷🏼‍♀️.
-
-Terminando este texto, les dejo destacados algunos repositorios de los proyectos desarrollados en mi último Bootcamp.
+Terminando este texto, les dejo destacados algunos repositorios de los proyectos desarrollados el Bootcamp de Desarrollo Full Stack JavaScript.
 
 En Repositories están los proyectos de los Bootcamps que más me han gustado y que quiero compartir con todos ustedes.
 
