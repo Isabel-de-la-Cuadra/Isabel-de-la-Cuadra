@@ -1,5 +1,7 @@
-### Hola, mi nombre es Isabel de la Cuadra, soy una aprendiz de Desarrollo Web. 
-En el año 2022 hice mi primer Bootcamp y fue en Java. Como quería transitar desde el lado oscuro de la fuerza, Back End, hacia la interfaz de usuario, el año 2023 tomé uno en JavaScript y 🥳 este año estoy estudiando Diseño UX-UI 🤷🏼‍♀️ (¡GRACIAS TALENTO DIGITAL PARA CHILE, POR LAS DOS BECAS: Bootcamp y Google + Coursera).
+### Hola, mi nombre es Isabel de la Cuadra, soy una aprendiz de Desarrollo Web y Diseño UX-UI. 
+En el año 2022 hice mi primer Bootcamp y fue en Java. Como quería transitar desde el lado oscuro de la fuerza, Back End, hacia la interfaz de usuario, el año 2023 tomé uno en JavaScript y el año 2024 uno Diseño UX-UI 🤷🏼‍♀️ (¡GRACIAS TALENTO DIGITAL PARA CHILE!, por todas las becas que me han dado).
+
+¿Qué estoy haciendo ahora? 🤩 Este 2025 estoy terminando la Certificación de Diseño UX-UI de Google con Coursera, tomando un Diplomado en Transformación Digital, con Digital Bank y un Bootcamp de Product Owner, con Talento Digital para Chile.
 
 Terminando este texto, les dejo destacados algunos repositorios de los proyectos desarrollados el Bootcamp de Desarrollo Full Stack JavaScript.
 
