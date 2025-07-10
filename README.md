@@ -8,14 +8,13 @@ Me siento cómoda liderando, diseñando y colaborando en equipos ágiles, siempr
 
 ---
 
-## 🚀 Formación destacada
+## Formación destacada
 
-- **2022** · Bootcamp Full Stack Java (Talento Digital para Chile)
-- **2023** · Bootcamp Full Stack JavaScript (Talento Digital para Chile)
-- **2024** · Diplomado en UX/UI Design (Talento Digital para Chile)
-- **2024** · Bootcamp Product Owner (Talento Digital)
-- **2025** · Certificación Google UX Design (Coursera + Google, en curso)
 - **2025** · Diplomado en Transformación Digital (Digital Bank Latam)
+- **2025** · Bootcamp Product Owner (Talento Digital para Chile)
+- **2024** · Diplomado en UX/UI Design (Talento Digital para Chile)
+- **2023** · Bootcamp Full Stack JavaScript (Talento Digital para Chile)
+- **2022** · Bootcamp Full Stack Java (Talento Digital para Chile)
 
 ---
 
@@ -46,7 +45,6 @@ Me siento cómoda liderando, diseñando y colaborando en equipos ágiles, siempr
 <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 <img alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
-<img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atlassian/atlassian-original.svg" width="40" height="40"/>
 </p>
 
 ---
