@@ -1,4 +1,4 @@
-# ✨ Isabel de la Cuadra – UX/UI Designer · Product Owner · Web Developer en formación
+# Isabel de la Cuadra – UX/UI Designer · Product Owner · Web Developer, siempre en formación
 
 ¡Hola! Soy Isabel, una profesional en transición hacia el mundo digital.  
 En 2022 me sumergí en el desarrollo backend con Java, y desde entonces he cruzado puentes hacia el diseño de experiencias, la gestión de productos y el desarrollo front-end con JavaScript.
